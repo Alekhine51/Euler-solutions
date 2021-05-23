@@ -1,2 +1,2 @@
 # Euler-solutions
-My Porject Euler Solutions.
+My Project Euler Solutions.
